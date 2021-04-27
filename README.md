@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lavaFrai compiler 
+- 👀 I’m interested in "{" in line 69
+- 🌱 I’m currently learning how to compile interpreters
+- 💞️ I’m looking to collaborate with you
+- 📫 How to reach me ... *404 not found*
