@@ -10,7 +10,7 @@ Skills: Python / С++ / Web Developing / WPS settingup / Domain registration / A
 - 🔭 I’m currently working on my website.  
 - 📫 How to reach me? 
   - discord: [lava_frai#0498](https://discord.com/users/677933625802489889/) 
-  - e-mail: [master@lavafrai.ru](mailto:master@lavafrai.ru)
+  - e-mail: [lavafrai@yandex.ru](mailto:master@lavafrai.ru)
 - 💻 My web site: https://lavafrai.ru/
 
 
