@@ -3,9 +3,9 @@
 
 [![dis](https://discord.c99.nl/widget/theme-1/677933625802489889.png)](https://discord.com/users/677933625802489889/)
 
-Skills: Python / С++ / Web Developing / WPS settingup / Domain registration / Arduino (C++)
+Skills: Python / Kotlin / Java / WPS settingup / Domain registration / Arduino (C++)
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,html,bash,cloudflare,cpp)](https://lavafrai.ru/)
+[![My Skills](https://skillicons.dev/icons?i=py,kotlin,java,bash,cloudflare,cpp)](https://lavafrai.ru/)
 
 - 🔭 I’m currently working on my website.  
 - 📫 How to reach me? 
