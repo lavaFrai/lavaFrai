@@ -11,7 +11,6 @@ Skills: Python / Kotlin / Java / WPS settingup / Domain registration / Arduino (
 - 📫 How to contact me? 
   - discord: [lava_frai#0498](https://discord.com/users/677933625802489889/) 
   - e-mail: [lavafrai@yandex.ru](mailto:master@lavafrai.ru)
-  - telegram: [@lavafrai_channel](https://t.me/lavafrai_channel)
 - 💻 My web site: https://lavafrai.ru/
 
 
