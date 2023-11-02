@@ -10,7 +10,7 @@ Skills: Python / Kotlin / Java / WPS settingup / Domain registration / Arduino (
 - 🔭 I’m currently working on **Mi Band 7 apps**.  
 - 📫 How to contact me? 
   - discord: [lava_frai#0498](https://discord.com/users/677933625802489889/) 
-  - e-mail: [lavafrai@yandex.ru](mailto:master@lavafrai.ru)
+  - e-mail: [lavafrai@yandex.ru](mailto:lavafrai@yandex.ru)
 - 💻 My web site: https://lavafrai.ru/
 
 
