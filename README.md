@@ -13,13 +13,13 @@ Skills: Python / Kotlin / Java / WPS settingup / Domain registration / Arduino (
   - e-mail: [lavafrai@yandex.ru](mailto:lavafrai@yandex.ru)
 - 💻 My web site: https://lavafrai.ru/
 
-
+<!---
 My github statistic:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lavafrai&theme=tokyonight&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lavafrai&theme=tokyonight&show_icons=true)  
-
+--->
 <!---
 My language statistic on GitHub (Not all my projects are uploaded here):
 
